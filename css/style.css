@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", monosapce;
-  color: #0d1e2d;
+  color: #1b1b1b;
 }
 
 a {
@@ -351,7 +351,7 @@ h6,
 /* Custom Navmenu */
 
 .custom-navmenu {
-  background: #0d1e2d;
+  background: #1b1b1b;
 }
 
 .custom-navmenu .custom-menu,
