@@ -373,7 +373,7 @@ h1 {
 
 .custom-navmenu .custom-menu li a {
   color: #fff;
-  padding: 10px 0 !important;
+  /* padding: 10px 0 !important; */
 }
 
 .custom-navmenu .custom-menu li a:hover {
